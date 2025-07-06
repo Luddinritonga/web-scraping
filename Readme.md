@@ -13,7 +13,6 @@ Setiap file `mainX.py` berisi pendekatan atau studi kasus berbeda untuk scraping
 - Menggunakan berbagai teknik web scraping: `requests`, `BeautifulSoup`, dll
 - Skrip modular: tiap file `.py` berdiri sendiri sebagai latihan
 
----
 
 ## 🛠️ Teknologi & Library
 
@@ -24,14 +23,14 @@ Setiap file `mainX.py` berisi pendekatan atau studi kasus berbeda untuk scraping
 
 ## 📁 Struktur Folder
 
-web scraping/
-├── main1.py # Latihan scraping dasar
-├── main2.py # Latihan scraping lanjut
-├── main3.py
-├── main4.py
-├── main5.py
-├── main6.py
-├── main7.py
+web scraping/ <br>
+├── main1.py <br>
+├── main2.py <br>
+├── main3.py <br>
+├── main4.py <br>
+├── main5.py <br>
+├── main6.py <br>
+├── main7.py <br>
 └── README.md # Dokumentasi proyek
 
 ## Install pustaka yang dibutuhkan
@@ -42,12 +41,20 @@ pip install lxml
 python main1.py
 
 ## 📌 Catatan Penting
-⚠️ Gunakan web scraping dengan bijak!
-Pastikan situs web yang diambil datanya:
-Mengizinkan scraping melalui Terms of Service
-Tidak diblokir dengan robots.txt
-Tidak dibanjiri permintaan (rate limit)
+⚠️ Gunakan web scraping dengan bijak!<br>
+Pastikan situs web yang diambil datanya:<br>
+1 Mengizinkan scraping melalui Terms of Service<br>
+2 Tidak diblokir dengan robots.txt<br>
+3 Tidak dibanjiri permintaan (rate limit)<br>
 
 ## 🙋‍♂️ Author
-Luddin Ritonga
-GitHub: github.com/luddinritonga
+Luddin Ritonga <br>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luddinritonga03email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luddinritonga)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nama_channel_anda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/username)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/username)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+
